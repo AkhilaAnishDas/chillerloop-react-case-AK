@@ -4,19 +4,7 @@
 **Real-time monitoring dashboard for Navi Mumbai's district cooling infrastructure.**  
 8 zones · 6 chillers · 18.9 km of underground pipe networks · live sensor data
 
-
-</div>
-
 ---
-
-## 🌐 Live Demo
-
-🔗 ****
-
-
----
-
-## 📸 Screenshots
 
 ### Dashboard — Live System Overview
 
@@ -81,11 +69,6 @@ chillerloop/
 │   └── navimumbai_full.mp4       # Background video asset for dashboard hero
 │
 ├── src/
-│   │
-│   ├── assets/
-│   │   ├── hero.png              # Hero section background
-│   │   ├── react.svg
-│   │   └── vite.svg
 │   │
 │   ├── components/               # All feature + layout components
 │   │   ├── About.jsx             # About / info page
@@ -243,8 +226,6 @@ npm run preview
 Academic project — B.Tech FY CSE, Semester 2, Sprint 2, 2025–2029.
 
 ---
-
-<div align="center">
 
 Built with ❄️ by **Akhila Anish Das** · Roll No: 150096725016 · Cohort: Larry Page  
 **Navi Mumbai UGCS v2.6** · System Online 🟢
