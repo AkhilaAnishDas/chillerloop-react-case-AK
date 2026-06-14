@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧊 ChillerLoop
 ### Underground Cooling Intelligence
 
@@ -250,5 +248,3 @@ Academic project — B.Tech FY CSE, Semester 2, Sprint 2, 2025–2029.
 
 Built with ❄️ by **Akhila Anish Das** · Roll No: 150096725016 · Cohort: Larry Page  
 **Navi Mumbai UGCS v2.6** · System Online 🟢
-
-</div>
