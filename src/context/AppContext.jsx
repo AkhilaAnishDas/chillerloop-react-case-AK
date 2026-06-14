@@ -57,6 +57,7 @@ export const translations = {
     fan: "Fan",
     distribute: "Distribute Evenly",
   },
+  
   hi: {
     appName: "चिलरलूप",
     tagline: "नवी मुंबई का भूमिगत शीतलन तंत्र",
@@ -111,6 +112,7 @@ export const translations = {
     fan: "पंखा",
     distribute: "समान रूप से वितरित करें",
   },
+  
   mr: {
     appName: "चिलरलूप",
     tagline: "नवी मुंबईची भूमिगत शीतकरण प्रणाली",
