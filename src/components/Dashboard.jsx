@@ -1,3 +1,5 @@
+/* Main important JSX for the dashboard of app */
+
 import { useState, useEffect, useRef, useCallback } from "react";
 import * as XLSX from "xlsx";
 import { useApp } from "../context/AppContext";
