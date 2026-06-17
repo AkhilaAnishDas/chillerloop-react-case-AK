@@ -4,9 +4,9 @@ export default function Settings() {
   const { t, theme, setTheme, lang, setLang } = useApp();
 
   const languages = [
-    { code: "en", name: "English", native: "English", flag: "🇬🇧" },
+    { code: "en", name: "English", native: "English", flag: "🇮🇳" },
     { code: "hi", name: "Hindi", native: "हिन्दी", flag: "🇮🇳" },
-    { code: "mr", name: "Marathi", native: "मराठी", flag: "🏮" },
+    { code: "mr", name: "Marathi", native: "मराठी", flag: "🇮🇳" },
   ];
 
   return (
