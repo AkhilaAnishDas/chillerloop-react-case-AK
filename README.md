@@ -48,7 +48,7 @@
 |---|---|
 | Framework | React 18 |
 | Build Tool | Vite 5 |
-| Styling | Tailwind CSS 3 |
+| Styling | Vanilla CSS 3 |
 | State Management | React Context API (`AppContext`) |
 | Routing | React Router v6 |
 | Data | Custom mock data — `naviMumbaiData.js` |
@@ -94,8 +94,7 @@ chillerloop/
 │   │   └── naviMumbaiData.js     # All mock sensor, asset, and pipe network data
 │   │
 │   ├── App.jsx                   # Root component — layout + routing
-│   ├── App.css                   # Global app styles
-│   ├── index.css                 # Tailwind base + custom CSS variables
+│   ├── index.css                 # Vanilla base + custom CSS variables
 │   └── main.jsx                  # Vite entry point
 │
 ├── .gitignore
