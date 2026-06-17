@@ -65,7 +65,6 @@ chillerloop/
 ├── public/
 │   ├── akhila.jpeg               # Developer photo / branding asset
 │   ├── favicon.svg               # App favicon
-│   ├── icons.svg                 # Sprite sheet for UI icons
 │   └── navimumbai_full.mp4       # Background video asset for dashboard hero
 │
 ├── src/
